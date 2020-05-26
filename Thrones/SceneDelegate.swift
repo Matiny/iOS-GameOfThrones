@@ -2,8 +2,8 @@
 //  SceneDelegate.swift
 //  Thrones
 //
-//  Created by Rave BizzDev on 5/25/20.
-//  Copyright © 2020 Rave BizzDev. All rights reserved.
+//  Created by Matiny on 5/25/20.
+//  Copyright © 2020 Matiny. All rights reserved.
 //
 
 import UIKit
